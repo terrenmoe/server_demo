@@ -1,0 +1,2 @@
+const css = require('./css.js');
+module.exports = '<head>\n    <meta charset="utf-8" />\n    <meta name="viewport" width=device-width, initial-scale=1.0 />\n    <meta name="author" content="Alex Rossiter" />\n    <meta name="description" content="Resumé" />\n    <meta name="keywords" content="resumé,resume,html5,javascript,jquery" />\n    <!--<base href="http://192.168.254.40:8000/" target="_blank" />-->\n    <title>Resumé</title>\n'+ css +'</head>';
